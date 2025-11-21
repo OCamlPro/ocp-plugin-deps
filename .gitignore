@@ -1,0 +1,10 @@
+/ocp-plugin-deps
+*~
+_build
+.merlin
+/_drom
+/_opam
+/_build
+.drom.config
+
+

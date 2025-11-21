@@ -1,0 +1,3 @@
+; This file was created by `drom new`
+
+(include dune.drom)
